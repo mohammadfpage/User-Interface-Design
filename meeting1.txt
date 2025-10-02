@@ -15,13 +15,20 @@ user interaction designer :
 هدف : تجربه روان و قابل پیشبینی برای کاربر و طراحی یک محصول
 
 
+
 طراحی یک محصول : 
 
 1. Research and analysis of user needs  تحقیق و تحلیل نیاز کاربر 
+
 2. Wireframe () and user flow (نقش کاربری) 
+
 3. ui design (طراحی بسری)
+
 4. interactive proto type (ساخت پروت تایپ تعاملی)
+
 5.Usability testing and optimization (تست کاربرد پذیری و بهینه سازی)
+
+
 
 
 
