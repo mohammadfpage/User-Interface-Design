@@ -33,4 +33,4 @@
 برای دریافت پروژه از GitHub و کار روی آن، در ترمینال دستور زیر را وارد کنید:
 
 ```bash
-git clone https://github.com/<YourUsername>/User-Interface-Design.git
+git clone https://github.com/mohammadfpage/User-Interface-Design.git
